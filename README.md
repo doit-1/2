@@ -1,6 +1,6 @@
 # Computer Networks:
 
-## LIST:
+## Experiments:
 
 ## [EX-1 STUDY OF SOCKET PROGRAMMING WITH CLIENT-SERVER MODEL](https://github.com/doit-1/2/tree/main#ex-1-study-of-socket-programming-with-client-server-model-1)
 ## [EX-2 IMPLEMENTATION OF STOP AND WAIT PROTOCOL](https://github.com/doit-1/2/tree/main#ex-2-implementation-of-stop-and-wait-protocol-1)
