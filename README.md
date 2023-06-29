@@ -2,16 +2,16 @@
 
 ## LIST:
 
-## [EX-1 STUDY OF SOCKET PROGRAMMING WITH CLIENT-SERVER MODEL]()
-## [EX-2 IMPLEMENTATION OF STOP AND WAIT PROTOCOL]()
-## [EX-3 IMPLEMENTATION OF SLIDING WINDOW PROTOCOL]()
-## [EX-4 IMPLEMENTATION OF ADDRESS RESOLUTION PROTOCOL (ARP)]()
-## [EX-5 IMPLEMENTATION OF REVERSE ADDRESS RESOLUTION PROTOCOL(RARP)]()
-## [EX-6 IMPLEMENTATION OF PING COMMAND]()
-## [EX-7 IMPLEMENTATION OF TRACEROUTE COMMAND]()
-## [EX-8 APPLICATION USING TCP SOCKETS - CREATING ECHO CLIENT-SERVER]()
-## [EX-9 APPLICATION USING TCP SOCKETS - CREATING FOR CHAT CLIENT-SERVER]()
-## [EX-10 APPLICATION USING TCP SOCKETS - FILE TRANSFER PROGRAM]()
+## [EX-1 STUDY OF SOCKET PROGRAMMING WITH CLIENT-SERVER MODEL](https://github.com/doit-1/2/tree/main#ex-1-study-of-socket-programming-with-client-server-model-1)
+## [EX-2 IMPLEMENTATION OF STOP AND WAIT PROTOCOL](https://github.com/doit-1/2/tree/main#ex-2-implementation-of-stop-and-wait-protocol-1)
+## [EX-3 IMPLEMENTATION OF SLIDING WINDOW PROTOCOL](https://github.com/doit-1/2/tree/main#ex-3-implementation-of-sliding-window-protocol-1)
+## [EX-4 IMPLEMENTATION OF ADDRESS RESOLUTION PROTOCOL (ARP)](https://github.com/doit-1/2/tree/main#ex-4-implementation-of-address-resolution-protocol-arp-1)
+## [EX-5 IMPLEMENTATION OF REVERSE ADDRESS RESOLUTION PROTOCOL(RARP)](https://github.com/doit-1/2/tree/main#ex-5-implementation-of-reverse-address-resolution-protocolrarp-1)
+## [EX-6 IMPLEMENTATION OF PING COMMAND](https://github.com/doit-1/2/tree/main#ex-6-implementation-of-ping-command-1)
+## [EX-7 IMPLEMENTATION OF TRACEROUTE COMMAND](https://github.com/doit-1/2/tree/main#ex-7-implementation-of-traceroute-command-1)
+## [EX-8 APPLICATION USING TCP SOCKETS - CREATING ECHO CLIENT-SERVER](https://github.com/doit-1/2/tree/main#ex-8-application-using-tcp-sockets---creating-echo-client-server-1)
+## [EX-9 APPLICATION USING TCP SOCKETS - CREATING FOR CHAT CLIENT-SERVER](https://github.com/doit-1/2/tree/main#ex-9-application-using-tcp-sockets---creating-for-chat-client-server-1)
+## [EX-10 APPLICATION USING TCP SOCKETS - FILE TRANSFER PROGRAM](https://github.com/doit-1/2/tree/main#ex-10-application-using-tcp-sockets---file-transfer-program-1)
 
 # PROGRAMS:
 
